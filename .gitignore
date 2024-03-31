@@ -1,0 +1,135 @@
+HELP.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+*.idea_modules
+*.idea.log
+
+# Maven specific files
+target/
+.mvn/
+
+# Spring Boot specific files
+spring-boot-devtools/
+
+# Gradle specific files
+.gradle/
+build/
+
+# Other common files
+.classpath
+.project
+.settings/
+
+# Local environment configuration
+.env
+.local.properties
+
+# Generated files
+*.tmp
+*.bak
+*.swp
+~*
+
+# Logs
+logs/
+
+# IDE specific files (e.g., Eclipse, NetBeans)
+.project
+.classpath
+.metadata
+
+# OS specific files
+Thumbs.db
+.DS_Store
+
+# IntelliJ IDEA specific files
+*.iml
+*.ipr
+*.iws
+
+# Local configuration files
+.gitignore
+.env
+.local.properties
+
+# Generated files
+*.class
+*.jar
+*.war
+*.log
+
+# IDE specific files (e.g., Eclipse, NetBeans)
+.project
+.classpath
+.metadata
+
+# OS specific files
+Thumbs.db
+.DS_Store
+
+# IntelliJ IDEA specific files
+*.iml
+*.ipr
+*.iws
+
+# Local configuration files
+.gitignore
+.env
+.local.properties
+
+# Generated files
+*.class
+*.jar
+*.war
+*.log
+
+# IDE specific files (e.g., Eclipse, NetBeans)
+.project
+.classpath
+.metadata
+
+# OS specific files
+Thumbs.db
+.DS_Store
